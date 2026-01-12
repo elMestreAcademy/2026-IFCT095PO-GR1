@@ -22,6 +22,7 @@ Aptitude
 
 ```bash
 sudo apt upgrade
+sudo apt update
 python3 --version
 sudo apt install python3
 ```

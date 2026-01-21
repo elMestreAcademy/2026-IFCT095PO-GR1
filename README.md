@@ -30,6 +30,7 @@ sudo apt install python3
 ## Links
 
 [W3 Schools](https://www.w3schools.com/python/)
+[FUNCIONES básicas de python](https://docs.python.org/3/library/functions.html)
 [Editor online](https://www.w3schools.com/python/trypython.asp?filename=demo_compiler)
 [cpp-data-types/](https://www.geeksforgeeks.org/cpp/cpp-data-types/)
 [coma flotante - IEEE754](https://numeral-systems.com/ieee-754-converter/)

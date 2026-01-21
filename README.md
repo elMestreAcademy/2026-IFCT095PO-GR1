@@ -39,3 +39,18 @@ sudo apt install python3
 ## Youtube Links
 
 [AI Was Supposed to Replace Developers... Until It Couldn't](https://www.youtube.com/watch?v=MjSUCg2NN4g&pp=0gcJCU0KAYcqIYzv)
+
+## Git clients
+
+| Nombre             | Link de descarga                                                             |
+| ---                | ---                                                                          |
+| **SourceTree**     | [sourcetreeapp.com](https://www.sourcetreeapp.com/)                          |
+| **GitKraken**      | [gitkraken.com](https://www.gitkraken.com/)                                  |
+| **GitHub Desktop** | [desktop.github.com](https://desktop.github.com/)                            |
+| **Sublime Merge**  | [sublimemerge.com](https://www.sublimemerge.com/)                            |
+| **Tower**          | [git-tower.com](https://www.git-tower.com/)                                  |
+| **LazyGit**        | [github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) |
+| **GitExtensions**  | [gitextensions.github.io](https://gitextensions.github.io/)                  |
+| **Fork**           | [git-fork.com](https://git-fork.com/)                                        |
+
+*VS code incluye su propia herrmienta de GitHub*

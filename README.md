@@ -36,6 +36,7 @@ sudo apt install python3
 - [coma flotante - IEEE754](https://numeral-systems.com/ieee-754-converter/)
 - [herramienta coma flotante](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
 - [Roadmap Python](https://roadmap.sh/python)
+- [Git - flujo de trabajo](https://www.pragma.com.co/academia/lecciones/aprende-gif-flow-en-13-pasos)
 
 ## Youtube Links
 

@@ -40,6 +40,7 @@ sudo apt install python3
 ## Youtube Links
 
 - [AI Was Supposed to Replace Developers... Until It Couldn't](https://www.youtube.com/watch?v=MjSUCg2NN4g&pp=0gcJCU0KAYcqIYzv)
+- [¿Por qué tantas memorias](https://www.youtube.com/watch?v=IwUq0RiUank)
 
 ## Juego(s)
 

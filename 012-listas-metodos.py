@@ -1,20 +1,18 @@
-print("Posí posno porfale, pa tí".count("í"))
+# dada la lista, la salida del programa debe ser la siguiene:
 
+lista = [
+    "patata",
+    "melon",
+    "sandia"
+]
 
-# operacion descompuesta
-texto = "Posí posno porfale, pa tí"
-conteo = texto.count("í")
-print(conteo)
+# SALIDA:
+"""
+########################################
+   - >> patata <<
+   - >> melon <<
+   - >> sandia <<
 
-
-print([1, 1, 3, 5, 3, 5, 3].count(3))
-
-# operacion descompuesta
-texto = [1, 1, 3, 5, 3, 5, 3]
-conteo = texto.count(3)
-print(conteo)
-
-
-datos = [1, 1, 3, 5, 3, 5, 3]
-target = 3
-print(datos.count(3))
+En total hay [3] elementos
+########################################
+"""

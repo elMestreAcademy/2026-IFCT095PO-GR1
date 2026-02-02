@@ -12,6 +12,8 @@
 - [Git - flujo de trabajo](https://www.pragma.com.co/academia/lecciones/aprende-gif-flow-en-13-pasos)
 - [Strings: Box drawing characters](https://en.wikipedia.org/wiki/Box-drawing_characters)
 - [Strings: ANSI color escape sequences](https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences)
+- [Python: exception hierarchy](https://docs.python.org/3/library/exceptions.html#exception-hierarchy)
+
 
 ## Youtube Links
 

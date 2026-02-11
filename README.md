@@ -2,6 +2,10 @@
 
 ## Links
 
+- [Proyecto Flask](https://github.com/elMestreAcademy/2026-IFCT095PO-GR1-flask)
+
+---
+
 - [W3 Schools](https://www.w3schools.com/python/)
 - [FUNCIONES básicas de python](https://docs.python.org/3/library/functions.html)
 - [Editor online](https://www.w3schools.com/python/trypython.asp?filename=demo_compiler)

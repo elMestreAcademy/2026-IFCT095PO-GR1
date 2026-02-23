@@ -2,10 +2,8 @@
 
 ## Links
 
-- [Proyecto Flask](https://github.com/elMestreAcademy/2026-IFCT095PO-GR1-flask)
 - [Django Tutorial](https://docs.djangoproject.com/en/6.0/intro/tutorial01/)
 - [Django Quick Install](https://docs.djangoproject.com/en/6.0/intro/install/)
-- [Proyecto Flask](https://github.com/elMestreAcademy/2026-IFCT095PO-GR1-flask)
 - [Proyecto Django](https://github.com/elMestreAcademy/2026-IFCT095PO-GR1-django)
 
 ---
@@ -23,6 +21,7 @@
 - [Python: exception hierarchy](https://docs.python.org/3/library/exceptions.html#exception-hierarchy)
 - [URI/URN](https://danielmiessler.com/blog/difference-between-uri-url)
 - [HTTP Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)
+- [Proyecto Flask](https://github.com/elMestreAcademy/2026-IFCT095PO-GR1-flask)
 
 ## Youtube Links
 

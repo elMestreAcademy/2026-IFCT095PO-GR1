@@ -3,6 +3,10 @@
 ## Links
 
 - [Proyecto Flask](https://github.com/elMestreAcademy/2026-IFCT095PO-GR1-flask)
+- [Django Tutorial](https://docs.djangoproject.com/en/6.0/intro/tutorial01/)
+- [Django Quick Install](https://docs.djangoproject.com/en/6.0/intro/install/)
+- [Proyecto Flask](https://github.com/elMestreAcademy/2026-IFCT095PO-GR1-flask)
+- [Proyecto Django](https://github.com/elMestreAcademy/2026-IFCT095PO-GR1-django)
 
 ---
 

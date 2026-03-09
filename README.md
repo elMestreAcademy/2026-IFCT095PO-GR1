@@ -22,6 +22,7 @@
 - [URI/URN](https://danielmiessler.com/blog/difference-between-uri-url)
 - [HTTP Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)
 - [Proyecto Flask](https://github.com/elMestreAcademy/2026-IFCT095PO-GR1-flask)
+- [String Interpolation](https://stackabuse.com/python-string-interpolation-with-the-percent-operator/)
 
 ## Youtube Links
 
